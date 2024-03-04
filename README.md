@@ -1,16 +1,28 @@
-### Hi there 👋
+### Greetings 👋
 
-<!--
-**thinhdoan823/thinhdoan823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Phu Thinh, 
+a budding Data Analyst eager to learn, grow, and contribute my abilities to meaningful projects.
 
-Here are some ideas to get you started:
+#### Currently, my skillset encompasses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL: Writing queries to extract, clean, and analyze data from databases.
+  
+- Power BI: Proficient in creating basic dashboards and reports to visualize data insights.
+  
+- Python: Familiar with utilizing libraries like Pandas and NumPy for data manipulation and exploration, as well as Matplotlib and Seaborn for visualization.
+  
+- Machine Learning: Possesses a basic understanding of Supervised learning with Scikit-learn.
+
+#### I have experience working on the following projects:
+
+
+
+
+I'm always open to connecting with other data enthusiasts and professionals. Feel free to reach out to discuss any data-driven challenges or opportunities! :blush:
+
+
+📫 How to reach me: 
+
+:calling: 0908939217
+
+:email: thinhdpp@gmail.com 
