@@ -4,6 +4,7 @@ My name is Phu Thinh,
 a budding Data Analyst eager to learn, grow, and contribute my abilities to meaningful projects.
 
 #### Currently, my skillset encompasses:
+*** 
 
 - SQL: Writing queries to extract, clean, and analyze data from databases.
   
@@ -14,6 +15,7 @@ a budding Data Analyst eager to learn, grow, and contribute my abilities to mean
 - Machine Learning: Possesses a basic understanding of Supervised learning with Scikit-learn.
 
 #### I have experience working on the following projects:
+***
 
 
 
