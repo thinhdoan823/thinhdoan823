@@ -14,11 +14,6 @@ a budding Data Analyst eager to learn, grow, and contribute my abilities to mean
   
 - Machine Learning: Possesses a basic understanding of Supervised learning with Scikit-learn.
 
-#### I have experience working on the following projects:
-***
-
-
-
 
 I'm always open to connecting with other data enthusiasts and professionals. Feel free to reach out to discuss any data-driven challenges or opportunities! :blush:
 
